@@ -1,0 +1,86 @@
+[
+  {
+    "id": "EMSNeato",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSNeato.svg",
+    "sha256": "5a92022a654b5795cc884b803d167dc30af18f2ec83a5cb4839fd93e30b268a9",
+    "license": "EMSNeato-OFL.txt"
+  },
+  {
+    "id": "EMSCasualHand",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSCasualHand.svg",
+    "sha256": "e8c64afb9739ff78b3cd0ae1bfb95d21fb1077eda569e0eef5d262b64da38041",
+    "license": "EMSCasualHand-OFL.txt"
+  },
+  {
+    "id": "EMSTech",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSTech.svg",
+    "sha256": "6da30b0e44022a07043204f6936ba929a3cf756609921a48ce1a7309a5270775",
+    "license": "EMSTech-OFL.txt"
+  },
+  {
+    "id": "EMSLeague",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSLeague.svg",
+    "sha256": "e7f473eeea1a6cea5b760d22ac87db49f4ebe13914c4214f7f0b23a57bcf2e01",
+    "license": "EMSLeague-OFL.txt"
+  },
+  {
+    "id": "Relief",
+    "source": "https://raw.githubusercontent.com/isdat-type/Relief-SingleLine/main/fonts/open_svg/ReliefSingleLineSVG-Regular.svg",
+    "sha256": "75f05a5b64ed6039c9816628ee051d98e16c19148a8268c63f5eccf8382479e2",
+    "license": "Relief-OFL.txt"
+  },
+  {
+    "id": "EMSNixish",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSNixish.svg",
+    "sha256": "418b9986220ebce947396af4f918d20266cd42d22d4d141fdd52c8ea20980ec6",
+    "license": "EMSNixish-OFL.txt"
+  },
+  {
+    "id": "EMSDelight",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSDelight.svg",
+    "sha256": "c872917c15d9ac4a54a13eba4ce30cc134f50f4a11fbff1945a7de755b39b488",
+    "license": "EMSDelight-OFL.txt"
+  },
+  {
+    "id": "EMSReadability",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSReadability.svg",
+    "sha256": "f922afa80fdab77ddc8f960d8ce32ebba907aa483c3d8c661676fe0bed942094",
+    "license": "EMSReadability-OFL.txt"
+  },
+  {
+    "id": "EMSFelix",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSFelix.svg",
+    "sha256": "6bfa39a9d89ebd015b4319cff0b2aedaba40a5271fb4734c8295555c460de005",
+    "license": "EMSFelix-OFL.txt"
+  },
+  {
+    "id": "EMSCapitol",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSCapitol.svg",
+    "sha256": "3ba810c9fe9263db03c9552269042a8e7ee265db3266432f1de23d02d51bcfc5",
+    "license": "EMSCapitol-OFL.txt"
+  },
+  {
+    "id": "EMSAllure",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSAllure.svg",
+    "sha256": "d9ef1032a2059d3b90189b9cacc26124812962503d6e7bdfe8b09b09904ce379",
+    "license": "EMSAllure-OFL.txt"
+  },
+  {
+    "id": "EMSPancakes",
+    "source": "https://gitlab.com/oskay/svg-fonts/-/raw/master/fonts/EMS/EMSPancakes.svg",
+    "sha256": "89801412f013128c27179bc1bc0eb686ab3bdb8825280e53ecda55a55ad46c02",
+    "license": "EMSPancakes-OFL.txt"
+  },
+  {
+    "id": "Mistral",
+    "source": "https://raw.githubusercontent.com/isdat-type/Mistral-SingleLine/main/fonts/open_paths_otf-svg/Mistral%20SingleLine%20OTF-SVG-Regular.otf",
+    "sha256": "0cc2bd49302547277c110457b41cdefe529cef7ad99e5c7b75c0458bc22967b2",
+    "license": "Mistral-OFL.txt"
+  },
+  {
+    "id": "VHSHand",
+    "source": "https://github.com/utrost/VHS/tree/main/glyphs/font1",
+    "sha256": "0ec23e57d85d5428063f00a2d4c3e07c3b73350e2ab837963a216be6e150febf",
+    "license": "VHSHand-LICENSE.txt"
+  }
+]
